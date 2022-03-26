@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+
+nav{
+    background-color: black;
+}
+.nav-center{
+    color: white;
+    padding: 22px 22px 22px;
+}
+.h44{
+    float: left;
+    overflow: hidden;
+    padding: 0;
+margin: 0;
+}
+ul{
+list-style: none;
+overflow: hidden;
+padding: 0;
+margin: 0;
+}
+li{
+    float: right;
+}
+li a{
+    text-decoration: none;
+    color: aliceblue;
+    display: block;
+    padding-left: 12px;
+}
+
+  
+.container{
+    background-color: rgb(77, 0, 0);
+}
+h2{
+    color: white;
+}
+.color{
+    color: aqua;
+}
